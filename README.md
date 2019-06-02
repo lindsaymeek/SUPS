@@ -16,3 +16,6 @@ One advantage of using a solar-powered UPS is that it bypasses the usual regulat
 grid-interactive solar power systems, as the solar panels are never directly connected to the grid. 
 Another advantage of focusing on powering only standby loads is the system cost is kept low, requiring in most cases only 
 a single solar panel. The device is shown working below supplying a 40W globe. 
+
+This won a circuit cellar design award back in 2006, can't seem to find the link any more.
+
